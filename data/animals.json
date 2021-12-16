@@ -126,6 +126,16 @@
         "hungry"
       ],
       "id": "12"
+    },
+    {
+      "name": "Cody",
+      "species": "Canine",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "anxious",
+        "goofy"
+      ],
+      "id": "13"
     }
   ]
 }
